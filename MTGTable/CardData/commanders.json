@@ -1,0 +1,148 @@
+[
+ {
+  "name": "Zimone, Mystery Unraveler",
+  "colors": [
+   "G",
+   "U"
+  ],
+  "faces": [
+   {
+    "name": "Zimone, Mystery Unraveler",
+    "art": "bundle:zimone_mystery_unraveler_0_art.jpg",
+    "normal": "bundle:zimone_mystery_unraveler_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "The Mimeoplasm",
+  "colors": [
+   "B",
+   "G",
+   "U"
+  ],
+  "faces": [
+   {
+    "name": "The Mimeoplasm",
+    "art": "bundle:the_mimeoplasm_0_art.jpg",
+    "normal": "bundle:the_mimeoplasm_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Ashling, the Limitless",
+  "colors": [
+   "B",
+   "G",
+   "R",
+   "U",
+   "W"
+  ],
+  "faces": [
+   {
+    "name": "Ashling, the Limitless",
+    "art": "bundle:ashling_the_limitless_0_art.jpg",
+    "normal": "bundle:ashling_the_limitless_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Sauron, the Dark Lord",
+  "colors": [
+   "B",
+   "R",
+   "U"
+  ],
+  "faces": [
+   {
+    "name": "Sauron, the Dark Lord",
+    "art": "bundle:sauron_the_dark_lord_0_art.jpg",
+    "normal": "bundle:sauron_the_dark_lord_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Dwalin, Weaponmaster",
+  "colors": [
+   "R",
+   "W"
+  ],
+  "faces": [
+   {
+    "name": "Dwalin, Weaponmaster",
+    "art": "bundle:dwalin_weaponmaster_0_art.jpg",
+    "normal": "bundle:dwalin_weaponmaster_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Samut, the Driving Force",
+  "colors": [
+   "G",
+   "R",
+   "W"
+  ],
+  "faces": [
+   {
+    "name": "Samut, the Driving Force",
+    "art": "bundle:samut_the_driving_force_0_art.jpg",
+    "normal": "bundle:samut_the_driving_force_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "The Mindskinner",
+  "colors": [
+   "U"
+  ],
+  "faces": [
+   {
+    "name": "The Mindskinner",
+    "art": "bundle:the_mindskinner_0_art.jpg",
+    "normal": "bundle:the_mindskinner_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "The Odd Acorn Gang",
+  "colors": [
+   "B",
+   "G"
+  ],
+  "faces": [
+   {
+    "name": "The Odd Acorn Gang",
+    "art": "bundle:the_odd_acorn_gang_0_art.jpg",
+    "normal": "bundle:the_odd_acorn_gang_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Saruman, the White Hand",
+  "colors": [
+   "B",
+   "R",
+   "U"
+  ],
+  "faces": [
+   {
+    "name": "Saruman, the White Hand",
+    "art": "bundle:saruman_the_white_hand_0_art.jpg",
+    "normal": "bundle:saruman_the_white_hand_0_card.jpg"
+   }
+  ]
+ },
+ {
+  "name": "Frodo, Sauron's Bane",
+  "colors": [
+   "B",
+   "W"
+  ],
+  "faces": [
+   {
+    "name": "Frodo, Sauron's Bane",
+    "art": "bundle:frodo_sauron_s_bane_0_art.jpg",
+    "normal": "bundle:frodo_sauron_s_bane_0_card.jpg"
+   }
+  ]
+ }
+]
